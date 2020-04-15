@@ -14,4 +14,4 @@ f1.write(" ".join([str(i) for i in arr]))
 
 Best Case Time Complexity: O(n). Best case occurs when array is already sorted.
 
-Auxiliary Space: O(1)'''
+space complexity: O(1)'''
