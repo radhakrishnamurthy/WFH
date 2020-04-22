@@ -1,0 +1,21 @@
+An array of N integers is passed as the input. Based on the Example Input/Output, write a C program to produce the desired output.
+
+Input Format
+
+The first line denotes the value of N N integers separated by a space.
+
+Constraints
+
+1 < N <= 100
+
+Output Format
+
+The output based on the Example Input/Output section.
+
+Sample Input 0
+
+5
+4 2 3 5 7
+Sample Output 0
+
+2 4 7
