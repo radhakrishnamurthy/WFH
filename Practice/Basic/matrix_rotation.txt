@@ -1,0 +1,25 @@
+The program must accept an integer matrix of size NxN as the input. The program must rotate the given matrix by 90 degree in anticlockwise direction. Finally, the program must print modified matrix as the output.
+
+Input Format
+
+The first line contains the value of N. The next N lines contain N integers separated by space(s).
+
+Constraints
+
+1 <= N <= 100 1 <= Matrix Element Value <= 9999999
+
+Output Format
+
+The first N lines contain N integers of the modified matrix separated by space(s).
+
+Sample Input 0
+
+3
+45 10 98
+75 58 85
+94 44 91
+Sample Output 0
+
+98 85 91
+10 58 44
+45 75 94
